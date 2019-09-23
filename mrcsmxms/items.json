@@ -8,20 +8,12 @@
  
     { "type": "play", "width": 36, "align": "left", "bordered": false },
     { "type": "music", "align": "center" },
-
-
-  //{ "type": "inputsource", "width": 55, "align": "right" },
-    
-  
+      
     { "type": "volumeDown", "width": 36, "align": "right", "bordered": false },
     { "type": "volume", "align": "right", "width": 90},
     { "type": "volumeUp", "width": 36, "align": "right", "bordered": false },
   
-    
     { "type": "network", "width": 100, "align": "right", "bordered": false },
-  //{ "type": "timeButton", "formatTemplate": "HH:mm", "width": 64, "align": "right" },
-  
-  
   
   //CPU-Load
     {
